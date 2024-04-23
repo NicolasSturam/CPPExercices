@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1711013142 source:d:\nicolas\code\c\demineur\main.cpp
+	<iostream>
+	"plateau.h"
+	"jeu.h"
+
+1711031349 d:\nicolas\code\c\demineur\plateau.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1711031331 source:d:\nicolas\code\c\demineur\plateau.cpp
+	"plateau.h"
+
+1711015450 d:\nicolas\code\c\demineur\jeu.h
+	<iostream>
+	<ios>
+	<limits>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"plateau.h"
+
+1711031573 source:d:\nicolas\code\c\demineur\jeu.cpp
+	"jeu.h"
+
+1711105664 source:c:\users\nicol\onedrive\documents\c\demineur\jeu.cpp
+	"jeu.h"
+
+1711019052 c:\users\nicol\onedrive\documents\c\demineur\jeu.h
+	<iostream>
+	<ios>
+	<limits>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	"plateau.h"
+
+1711034950 c:\users\nicol\onedrive\documents\c\demineur\plateau.h
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1711096945 source:c:\users\nicol\onedrive\documents\c\demineur\main.cpp
+	<iostream>
+	"plateau.h"
+	"jeu.h"
+
+1711097995 source:c:\users\nicol\onedrive\documents\c\demineur\plateau.cpp
+	"plateau.h"
+
